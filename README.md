@@ -82,7 +82,7 @@ Coding Sequence:
 
 The implementation layer — the actual prompts, decision trees, a worked 
 example, security checklists, glossary, and sequencing logic — is 
-available at [vibecodesequence.com](https://bit.ly/vcs-gumroad).
+available at [Vibe Code Sequence](https://bit.ly/vcs-gumroad).
 
 ---
 
