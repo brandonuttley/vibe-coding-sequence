@@ -232,8 +232,8 @@ consequences, not an oversight.
 
 The prompts used at each step, the decision trees, a worked example, 
 security checklists, glossary, and troubleshooting guides are part of 
-the implementation layer, available at 
-[vibecodesequence.com](https://bit.ly/vcs-gumroad).
+the implementation layer, available 
+[here](https://bit.ly/vcs-gumroad).
 
 This document describes the structure. The product provides the means 
 to execute it.
