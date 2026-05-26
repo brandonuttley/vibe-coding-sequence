@@ -115,7 +115,7 @@ step and what it produces.
 
 The implementation layer — the prompts, decision trees, a worked 
 example, and sequencing logic that make the framework executable — is 
-available at [vibecodesequence.com](https://bit.ly/vcs-gumroad).
+available [here](https://171276522580.gumroad.com/l/vibe-coding-sequence).
 
 ---
 
