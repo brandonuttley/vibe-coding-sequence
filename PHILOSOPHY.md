@@ -11,7 +11,7 @@ That's worth taking seriously. So is what it leaves out.
 
 ---
 
-## The Gap Nobody Talks About
+## The Significant Gap In Vibe Coding
 
 The tools are remarkable. What they don't provide is judgment about order.
 
@@ -30,7 +30,7 @@ something breaks.
 
 ---
 
-## What Sequence Actually Does
+## What The Vibe Code Sequence Does
 
 Experienced developers don't think about this consciously because it's 
 been internalized. They know you define requirements before you write code. 
@@ -38,7 +38,7 @@ They know you build authentication before you build features. They know
 you audit before you deploy. Not because someone told them in a specific 
 session — because they've seen what happens when you don't.
 
-Non-technical builders don't have that scar tissue. They have enthusiasm, 
+Non-technical builders don't have that understanding and experience. They have enthusiasm, 
 a capable tool, and no particular reason to think the order matters.
 
 It does. Consistently and in predictable ways.
