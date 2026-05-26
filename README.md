@@ -82,11 +82,11 @@ Coding Sequence:
 
 The implementation layer — the actual prompts, decision trees, a worked 
 example, security checklists, glossary, and sequencing logic — is 
-available at [Vibe Code Sequence](https://bit.ly/vcs-gumroad).
+available at [Vibe Coding Sequence](https://171276522580.gumroad.com/l/vibe-coding-sequence).
 
 ---
 
-## Why Sequence Matters
+## Why A Proper Sequence Matters
 
 AI coding tools are good at building things. They are not good at knowing 
 what order to build them in, or what you forgot to ask for. A prompt that 
