@@ -1,0 +1,138 @@
+<svg width="680" viewBox="0 0 680 910" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M2 1L8 5L2 9" fill="none" stroke="#888780" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+    <style>
+      text {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      }
+      .th {
+        font-size: 14px;
+        font-weight: 600;
+        fill: #1a1a1a;
+      }
+      .t {
+        font-size: 14px;
+        font-weight: 400;
+        fill: #1a1a1a;
+      }
+      .ts {
+        font-size: 12px;
+        font-weight: 400;
+        fill: #555555;
+      }
+      .stage-label {
+        font-size: 11px;
+        font-weight: 500;
+        letter-spacing: 0.08em;
+        fill: #5F5E5A;
+      }
+      .arr {
+        stroke: #888780;
+        stroke-width: 1.5;
+        fill: none;
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="680" height="910" fill="#ffffff"/>
+
+  <!-- Stage 1: Before You Build -->
+  <rect x="40" y="20" width="600" height="272" rx="16" fill="#E1F5EE" stroke="#1D9E75" stroke-width="0.5"/>
+  <text class="stage-label" x="340" y="48" text-anchor="middle">BEFORE YOU BUILD</text>
+
+  <!-- Step 1 -->
+  <rect x="80" y="60" width="500" height="52" rx="8" fill="#ffffff" stroke="#1D9E75" stroke-width="0.5"/>
+  <text class="th" x="155" y="80" text-anchor="middle" dominant-baseline="central">Step 1</text>
+  <text class="t"  x="215" y="80" dominant-baseline="central">Requirements Interview</text>
+  <text class="ts" x="215" y="96" dominant-baseline="central">Gather everything needed before building starts</text>
+
+  <line x1="330" y1="112" x2="330" y2="128" class="arr" marker-end="url(#arrow)"/>
+
+  <!-- Step 2 -->
+  <rect x="80" y="130" width="500" height="52" rx="8" fill="#ffffff" stroke="#1D9E75" stroke-width="0.5"/>
+  <text class="th" x="155" y="150" text-anchor="middle" dominant-baseline="central">Step 2</text>
+  <text class="t"  x="215" y="150" dominant-baseline="central">Platform Recommendation</text>
+  <text class="ts" x="215" y="166" dominant-baseline="central">Choose the right AI coding platform for your project</text>
+
+  <line x1="330" y1="182" x2="330" y2="198" class="arr" marker-end="url(#arrow)"/>
+
+  <!-- Step 3 -->
+  <rect x="80" y="200" width="500" height="52" rx="8" fill="#ffffff" stroke="#1D9E75" stroke-width="0.5"/>
+  <text class="th" x="155" y="220" text-anchor="middle" dominant-baseline="central">Step 3</text>
+  <text class="t"  x="215" y="220" dominant-baseline="central">PRD Generator</text>
+  <text class="ts" x="215" y="236" dominant-baseline="central">Transform requirements into a formal specification</text>
+
+  <!-- Arrow Stage 1 to Stage 2 -->
+  <line x1="330" y1="292" x2="330" y2="310" class="arr" marker-end="url(#arrow)"/>
+
+  <!-- Stage 2: While You Build -->
+  <rect x="40" y="312" width="600" height="392" rx="16" fill="#EEEDFE" stroke="#7F77DD" stroke-width="0.5"/>
+  <text class="stage-label" x="340" y="338" text-anchor="middle">WHILE YOU BUILD</text>
+
+  <!-- Step 4 -->
+  <rect x="80" y="348" width="500" height="52" rx="8" fill="#ffffff" stroke="#7F77DD" stroke-width="0.5"/>
+  <text class="th" x="155" y="368" text-anchor="middle" dominant-baseline="central">Step 4</text>
+  <text class="t"  x="215" y="368" dominant-baseline="central">Foundation Prompt</text>
+  <text class="ts" x="215" y="384" dominant-baseline="central">Project setup, authentication, and data models only</text>
+
+  <line x1="330" y1="400" x2="330" y2="416" class="arr" marker-end="url(#arrow)"/>
+
+  <!-- Step 5 — security checkpoint -->
+  <rect x="80" y="418" width="500" height="52" rx="8" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.5"/>
+  <text class="th" x="155" y="438" text-anchor="middle" dominant-baseline="central">Step 5</text>
+  <text class="t"  x="215" y="438" dominant-baseline="central">Pre-Launch Audit</text>
+  <text class="ts" x="215" y="454" dominant-baseline="central">Security checkpoint: auth and data handling</text>
+
+  <line x1="330" y1="470" x2="330" y2="486" class="arr" marker-end="url(#arrow)"/>
+
+  <!-- Step 6 -->
+  <rect x="80" y="488" width="500" height="52" rx="8" fill="#ffffff" stroke="#7F77DD" stroke-width="0.5"/>
+  <text class="th" x="155" y="508" text-anchor="middle" dominant-baseline="central">Step 6</text>
+  <text class="t"  x="215" y="508" dominant-baseline="central">Core Features Prompt</text>
+  <text class="ts" x="215" y="524" dominant-baseline="central">Build primary functionality against the PRD</text>
+
+  <line x1="330" y1="540" x2="330" y2="556" class="arr" marker-end="url(#arrow)"/>
+
+  <!-- Step 7 -->
+  <rect x="80" y="558" width="500" height="52" rx="8" fill="#ffffff" stroke="#7F77DD" stroke-width="0.5"/>
+  <text class="th" x="155" y="578" text-anchor="middle" dominant-baseline="central">Step 7</text>
+  <text class="t"  x="215" y="578" dominant-baseline="central">UI/UX Prompt</text>
+  <text class="ts" x="215" y="594" dominant-baseline="central">Polish, responsiveness, and user experience</text>
+
+  <line x1="330" y1="610" x2="330" y2="626" class="arr" marker-end="url(#arrow)"/>
+
+  <!-- Step 8 — security checkpoint -->
+  <rect x="80" y="628" width="500" height="52" rx="8" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.5"/>
+  <text class="th" x="155" y="648" text-anchor="middle" dominant-baseline="central">Step 8</text>
+  <text class="t"  x="215" y="648" dominant-baseline="central">Final Security Pass</text>
+  <text class="ts" x="215" y="664" dominant-baseline="central">Full OWASP Top 10 audit before deployment</text>
+
+  <!-- Arrow Stage 2 to Stage 3 -->
+  <line x1="330" y1="704" x2="330" y2="722" class="arr" marker-end="url(#arrow)"/>
+
+  <!-- Stage 3: Going Live -->
+  <rect x="40" y="724" width="600" height="168" rx="16" fill="#FAECE7" stroke="#D85A30" stroke-width="0.5"/>
+  <text class="stage-label" x="340" y="750" text-anchor="middle">GOING LIVE</text>
+
+  <!-- Step 9 -->
+  <rect x="80" y="760" width="500" height="52" rx="8" fill="#ffffff" stroke="#D85A30" stroke-width="0.5"/>
+  <text class="th" x="155" y="780" text-anchor="middle" dominant-baseline="central">Step 9</text>
+  <text class="t"  x="215" y="780" dominant-baseline="central">Deployment Prompt</text>
+  <text class="ts" x="215" y="796" dominant-baseline="central">Move the application to a live production environment</text>
+
+  <line x1="330" y1="812" x2="330" y2="828" class="arr" marker-end="url(#arrow)"/>
+
+  <!-- Step 10 -->
+  <rect x="80" y="830" width="500" height="52" rx="8" fill="#ffffff" stroke="#D85A30" stroke-width="0.5"/>
+  <text class="th" x="155" y="850" text-anchor="middle" dominant-baseline="central">Step 10</text>
+  <text class="t"  x="215" y="850" dominant-baseline="central">Pre-Launch Checklist</text>
+  <text class="ts" x="215" y="866" dominant-baseline="central">Human-reviewed verification before real users arrive</text>
+
+  <!-- Legend -->
+  <rect x="80" y="893" width="14" height="14" rx="3" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.5"/>
+  <text class="ts" x="100" y="903" dominant-baseline="central">Security checkpoint</text>
+
+</svg>
