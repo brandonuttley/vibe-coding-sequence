@@ -233,7 +233,7 @@ consequences, not an oversight.
 The prompts used at each step, the decision trees, a worked example, 
 security checklists, glossary, and troubleshooting guides are part of 
 the implementation layer, available 
-[here](https://bit.ly/vcs-gumroad).
+[here](https://171276522580.gumroad.com/l/vibe-coding-sequence).
 
 This document describes the structure. The product provides the means 
 to execute it.
