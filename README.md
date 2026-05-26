@@ -25,6 +25,7 @@ code gets written, not patched in afterward.
 Non-technical builders using AI coding platforms. You don't need to know 
 how to code. You do need to be willing to slow down before you speed up.
 
+![Vibe Coding Sequence Map](./assets/sequence-map.svg)
 ---
 
 ## The Framework
